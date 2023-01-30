@@ -9,7 +9,7 @@
           <div id="form_inner">
             <form id="form" action="https://formsubmit.co/e336eb51f9e4626428995b774e7c0b14" method="POST">
               <div id="form_title_parent">
-                <div id="form_title">Send us a message.</div>
+                <div id="form_title">Send us a message</div>
               </div>
               <div class="input_parent">
                 <input required placeholder="Your name..." class="input" type="text" id="name" name="name"><br>
